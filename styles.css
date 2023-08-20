@@ -47,3 +47,8 @@ ul{
 	justify-content:space-around;
 	align-items:center;
 }
+a{
+	text-decoration-line:none;
+	background-color:white;
+	color:black;
+}
