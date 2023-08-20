@@ -1,1 +1,49 @@
-/*  your css code here. If applicable */
+*{
+	background-color: rgb(204, 204, 204);
+	padding:0px;
+	margin:0px;
+}
+#x{
+	padding:10px;
+	text-align:center;
+}
+.section1{
+	display:flex;
+    flex-direction:column;
+	justify-content:center;
+	align-items:center;
+}
+ul{
+	height:130px;
+	width:600px;
+	background-color:white;
+	display:flex;
+	flex-direction:column;
+	justify-content:center;
+	padding:0px;
+	border:1px solid black;
+	border-radius:10px;
+	overflow:hidden;
+}
+.abc{
+	padding:3px;
+	background-color:white;
+	list-style-type:none;
+}
+#sectiontwo{
+	display:flex;
+	flex-direction:column;
+	align-items:center;
+	
+}
+#section2{
+	height:450px;
+	width:600px;
+	background-color:white;
+	border-radius:10px;
+	overflow:hidden;
+	display:flex;
+	flex-direction:column;
+	justify-content:space-around;
+	align-items:center;
+}
